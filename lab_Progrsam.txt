@@ -2,7 +2,7 @@
 2 write a program to implemnt hill climbing
 3 write a program to implemnt A* seacrh
 4 write a program to implemnt AO* seacrh
-5 write predicates that converts celsius c to fahrenhaite F
+5 write pyhton code that converts celsius c to fahrenhaite F
 	other will cheack if temp is below freezing point
 6 write a program to implemnt tower of hanoi
 7 write a program to implemnt four queens problem 
